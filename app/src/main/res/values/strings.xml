@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Room with a View - Kotlin</string>
+    <string name="action_settings">Settings</string>
+</resources>
